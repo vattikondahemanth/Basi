@@ -10,3 +10,7 @@ git add <filename>
 git commit -m "Commit message"
 
 git push
+
+
+
+Merge conflict
